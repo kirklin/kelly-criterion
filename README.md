@@ -26,7 +26,7 @@ npm install kelly-criterion
 ### Example
 
 ```typescript
-import { KellyCriterion } from 'kelly-criterion';
+import { KellyCriterion } from "kelly-criterion";
 
 // Create an instance of the KellyCriterion class
 const kellyCalculator = new KellyCriterion();
