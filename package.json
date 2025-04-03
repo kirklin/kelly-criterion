@@ -1,7 +1,7 @@
 {
   "name": "kelly-criterion",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "packageManager": "pnpm@10.7.1",
   "description": "A Kelly Criterion calculator written in TypeScript",
   "author": "Kirk Lin <https://github.com/kirklin>",
